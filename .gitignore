@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# IDE settings
+.vscode/
+
+# PostgreSQL credentials
+config.py
