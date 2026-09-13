@@ -1,3 +1,19 @@
+## Week 2 Task Completion
+
+This project completed the following tasks:
+
+1. Created PostgreSQL database tables with primary keys and constraints.
+2. Added Python PostgreSQL connection code using psycopg2.
+3. Implemented parameterized CRUD operations.
+4. Added complex SQL queries using GROUP BY and aggregate functions.
+5. Added a seed script containing mock students, courses, and enrollments.
+
+### Database Details
+
+- Database: PostgreSQL
+- Database Name: internstreak_week2_db
+- Tables: students, courses, enrollments
+- Python Library: psycopg2-binary
 # PostgreSQL Database Configuration
 
 This repository contains the Week 2 project for my Python Full Stack Development Internship.
